@@ -62,7 +62,7 @@ A vertically integrated, dual-sided POD infrastructure that bridges manufacturer
 
 ---
 
-### [💊 MedicationAlert — Smart Medication Companion](https://github.com/ProTurkaa/MedicationAlert)
+### [💊 MedicationAlert — Smart Medication Companion](https://github.com/ProTurkaa/MedicationAlert-)
 A personal medication tracking application that helps users stay on top of their prescription schedules. Users can log their medications, receive intelligent reminders based on their usage habits, and monitor their personal stock levels in real-time. When a medication reaches critical stock, the app automatically identifies and routes the user to the nearest pharmacy that carries it.
 
 > **Scalability Note:** The underlying marketplace and logistics architecture is designed to be regulation-ready. In compliance with Turkish Republic pharmaceutical laws, should online medication sales and delivery become legally permitted, the platform's e-commerce infrastructure and courier navigation system can be seamlessly activated and scaled.
